@@ -19,6 +19,7 @@ public class Cuadrado {
     private int perimetro;
     public Cuadrado(int lado1){
         this.lado1=lado1;
+        
 
 }
 
